@@ -1,0 +1,31 @@
+{
+  "features": {
+    "navbar": {
+      "back": "go back"
+    }
+  },
+  "components": {
+    "sidebar": {
+      "options": {
+        "hourControl": {
+          "text": "Hour Control",
+          "tooltip": "My hour control"
+        }
+      },
+      "collapse": {
+        "open": "Open",
+        "close": "Close"
+      }
+    }
+  },
+  "routes": {
+    "home": {
+      "title": "Titulo"
+    }
+  },
+  "errors": {
+    "http": {
+      "unknown": "An error occurred. Please try again."
+    }
+  }
+}
