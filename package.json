@@ -27,7 +27,7 @@
     "dayjs": "^1.11.11",
     "envkey": "^2.5.1",
     "next": "14.2.4",
-    "next-intl": "^3.15.2",
+    "next-intl": "^3.17.3",
     "react": "^18",
     "react-dom": "^18",
     "react-imask": "^7.6.1"
