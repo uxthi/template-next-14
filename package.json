@@ -33,7 +33,7 @@
     "react-imask": "^7.6.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.3.0",
+    "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@svgr/webpack": "^8.1.0",
     "@testing-library/jest-dom": "^6.4.6",
